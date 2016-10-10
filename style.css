@@ -1,0 +1,34 @@
+div#sf-wrapper{
+	width: 90%;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	font-size: 18px;
+}
+div#sf-wrapper ul.sf-post-wrapper{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+div#sf-wrapper ul.sf-post-wrapper li{
+	padding: 2em;
+}
+div#sf-wrapper ul.sf-post-wrapper li p{
+	margin: 0;
+}
+div#sf-wrapper ul.sf-post-wrapper li:not(:first-of-type){
+	border-top: 2px solid #F3F4F5;
+}
+div#sf-wrapper ul.sf-post-wrapper li span.sf_fb-post-timestamp{
+	font-size: .75em;
+	color: grey;
+	font-weight: 600;
+	white-space: nowrap;
+	display: inline-block;
+	margin-top: .5em;
+}
+div#sf-wrapper ul.sf-post-wrapper li span.sf_fb-post-timestamp svg{
+	display: inline;
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
