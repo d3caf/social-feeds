@@ -1,4 +1,4 @@
-# Social Feeds for Wordpress
+# social-feeds for Wordpress
 
 **This project was created mostly for learning purposes and thus may not follow best practices and/or contain bugs.**
 
